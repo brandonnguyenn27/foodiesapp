@@ -1,0 +1,3 @@
+[submodule "foodiesbackend"]
+	path = foodiesbackend
+	url = https://github.com/brandonnguyenn27/foodiesbackend.git
